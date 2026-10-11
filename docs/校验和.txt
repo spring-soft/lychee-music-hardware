@@ -1,0 +1,9 @@
+# 关键文件 md5（2026-09-25 20:10）
+dfd8722e8549bcdc0b2b4da73d88e0f2  components/assets/assets.bin
+fab839fc5179c7c81fb9c021456a0718  build/esp-music.bin
+9509fd2866beb60210e4e65fd6bf4a40  build/bootloader/bootloader.bin
+23f9a84e2daa90e394591d82d3a95d91  build/partition_table/partition-table.bin
+e79ff14ffafb96e25e12b0378938a209  assets_src/pinyin/pinyin.bin
+0dfab0737a59b3a059e0b4a29e06ddeb  assets_src/font/font_cjk_16.bin
+2612388c8b60ad4d7a5c89e0bafa5b53  assets_src/font/font_cjk_12.bin
+# git: 221465e8a6b1fa40df8b9a81d379dfc13cf0121d

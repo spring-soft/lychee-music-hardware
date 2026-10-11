@@ -1,0 +1,68 @@
+============================================================
+ ESP-Music 项目备份
+============================================================
+备份时间 : 2026-09-25 19:59:03
+来源机器 : lychee-X556UQ (Zorin OS)
+Git 提交 : 221465e8a6b1fa40df8b9a81d379dfc13cf0121d
+分支     : main
+GitHub   : https://github.com/spring-soft/lychee-music  ← 在线主副本（公开仓库）
+
+这个 U 盘里有什么
+------------------
+esp-music/         完整工程（源码 + .git 版本库 + build/ + 第三方依赖）
+开发记录/          设计文档、进度表，以及开发过程中踩过的坑的笔记
+
+为什么连 build/ 和依赖一起备份
+-----------------------------
+因为"克隆下来就能烧"：第三方依赖（managed_components/）在没网或没配代理的
+机器上拉不下来；而 assets.bin（中文字库/拼音表/预渲染图）重新生成需要
+特定字体和 Rime 词典，别的机器上未必有。所以整套留一份最省事。
+
+从这份备份恢复
+--------------
+1) 还原源码（两种都行）
+   · 用 git：cd esp-music && git status        （.git 在里面，历史和 GitHub 一致）
+   · 或直接从 GitHub 克隆：git clone https://github.com/spring-soft/lychee-music
+
+2) 编译（需要 ESP-IDF v5.5.x，本项目用 v5.5.4）
+   . $HOME/esp/esp-idf/export.sh
+   cd esp-music
+   idf.py build
+   ⚠️ 如果换了路径或换了机器，先删掉 build/ 再 build（build 里记着绝对路径）；
+      或者跑 idf.py fullclean 一次。
+
+3) 烧录
+   idf.py -p /dev/ttyACM0 flash          （烧录口可能是 /dev/ttyACM0 或 /dev/ttyUSB0）
+
+不重新编译、直接用现成固件刷（U 盘里 build/ 下就有）
+---------------------------------------------------
+   cd esp-music
+   python -m esptool --chip esp32s3 -b 921600 --before default_reset --after hard_reset \
+     write_flash --flash_mode dio --flash_size 16MB --flash_freq 80m \
+     0x0    build/bootloader/bootloader.bin \
+     0x9000 build/partition_table/partition-table.bin \
+     0x10000 build/ota_data_initial.bin \
+     0x20000 build/esp-music.bin \
+     0x620000 components/assets/assets.bin
+
+   ⚠️ 分区表在 0x9000（不是 IDF 惯例的 0x8000），这是刻意对齐旧固件的。
+
+⚠️⚠️ 关于密码（重要）
+--------------------
+esp-music/sdkconfig.local 里有你的 **WiFi 密码** 和 **Navidrome 账号密码**。
+U 盘丢了就等于把这些一起丢了。介意的话直接把那个文件删掉 —— 设备上的
+WiFi 和 Navidrome 配置还存在设备的 NVS 里，不影响已经配好的机器；
+在新机器上编译时照着 sdkconfig.local.template 填一份就行。
+
+（.git 里【没有】这些密码：sdkconfig 和 sdkconfig.local 都在 .gitignore 里，
+ 所以推到 GitHub 的那份是干净的。）
+
+⚠️ 一处 FAT32 的限制（已核对：只是权限位，内容无损）
+------------------------------------------------------------------
+U 盘是 FAT32，存不了 Unix 的"可执行位"。所以备份里的
+    esp-music/tools/gen_font.sh
+会从 -rwxrwxr-x 变成 -rw-r--r--，在 U 盘上执行 git status 会显示
+    mode change 100755 => 100644 tools/gen_font.sh
+**内容完全一样**（已对过 md5）。恢复之后补一下就行：
+    chmod +x esp-music/tools/*.sh
+（整个仓库只有这一个可执行文件。）

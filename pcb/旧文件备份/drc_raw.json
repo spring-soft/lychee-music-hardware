@@ -1,0 +1,233 @@
+{
+  "count": 101,
+  "leaves": [
+    {
+      "visible": true,
+      "errorType": "Clearance Error",
+      "errorObjType": "Track to Track",
+      "ruleName": "copperThickness1oz",
+      "ruleTypeName": "Safe Spacing",
+      "obj1": {
+        "typeName": "Track",
+        "suffix": "(+5V): e2511"
+      },
+      "obj2": {
+        "typeName": "Track",
+        "suffix": "(VBUS): e2859"
+      },
+      "layer": "Bottom Layer",
+      "explanation": {
+        "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+        "param": {
+          "minDistance": "0mil",
+          "shouldBe": ">= 4mil",
+          "obj1": "Object 1",
+          "obj2": "object 2",
+          "type": "ClearanceError"
+        },
+        "errData": {
+          "globalIndex": "err313",
+          "position": {
+            "x": 100.91373999999999,
+            "y": 101.34874500000001
+          },
+          "name": "copperThickness1oz",
+          "obj1": "3ed15da51bacbfdd",
+          "obj1Type": "Track",
+          "obj2": "31bbf9cc09af977b",
+          "obj2Type": "Track",
+          "minDistance": 0,
+          "clearance": 0.40157,
+          "errorType": "Safe Spacing",
+          "isInSameComponent": false,
+          "layerIds": [
+            2
+          ],
+          "obj1Suffix": "(+5V): e2511",
+          "obj2Suffix": "(VBUS): e2859"
+        }
+      },
+      "objs": [
+        "3ed15da51bacbfdd",
+        "31bbf9cc09af977b"
+      ],
+      "globalIndex": "err313",
+      "pos": {
+        "x": 100.91373999999999,
+        "y": 101.34874500000001
+      },
+      "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Track to Track"
+    },
+    {
+      "visible": true,
+      "errorType": "Clearance Error",
+      "errorObjType": "Track to Track",
+      "ruleName": "copperThickness1oz",
+      "ruleTypeName": "Safe Spacing",
+      "obj1": {
+        "typeName": "Track",
+        "suffix": "(SW_NODE): e2556"
+      },
+      "obj2": {
+        "typeName": "Track",
+        "suffix": "(BAT+): e2563"
+      },
+      "layer": "Bottom Layer",
+      "explanation": {
+        "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+        "param": {
+          "minDistance": "0mil",
+          "shouldBe": ">= 4mil",
+          "obj1": "Object 1",
+          "obj2": "object 2",
+          "type": "ClearanceError"
+        },
+        "errData": {
+          "globalIndex": "err314",
+          "position": {
+            "x": 162.85133249999998,
+            "y": 78.0355525
+          },
+          "name": "copperThickness1oz",
+          "obj1": "dc2087e4b52e6938",
+          "obj1Type": "Track",
+          "obj2": "bcfce0c60252a6cd",
+          "obj2Type": "Track",
+          "minDistance": 0,
+          "clearance": 0.40157,
+          "errorType": "Safe Spacing",
+          "isInSameComponent": false,
+          "layerIds": [
+            2
+          ],
+          "obj1Suffix": "(SW_NODE): e2556",
+          "obj2Suffix": "(BAT+): e2563"
+        }
+      },
+      "objs": [
+        "dc2087e4b52e6938",
+        "bcfce0c60252a6cd"
+      ],
+      "globalIndex": "err314",
+      "pos": {
+        "x": 162.85133249999998,
+        "y": 78.0355525
+      },
+      "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Track to Track"
+    },
+    {
+      "visible": true,
+      "errorType": "Clearance Error",
+      "errorObjType": "Track to Track",
+      "ruleName": "copperThickness1oz",
+      "ruleTypeName": "Safe Spacing",
+      "obj1": {
+        "typeName": "Track",
+        "suffix": "(BAT+): e2562"
+      },
+      "obj2": {
+        "typeName": "Track",
+        "suffix": "(SW_NODE): e2556"
+      },
+      "layer": "Bottom Layer",
+      "explanation": {
+        "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+        "param": {
+          "minDistance": "0mil",
+          "shouldBe": ">= 4mil",
+          "obj1": "Object 1",
+          "obj2": "object 2",
+          "type": "ClearanceError"
+        },
+        "errData": {
+          "globalIndex": "err315",
+          "position": {
+            "x": 162.85133249999998,
+            "y": 78.0355525
+          },
+          "name": "copperThickness1oz",
+          "obj1": "e915862065ca7be1",
+          "obj1Type": "Track",
+          "obj2": "dc2087e4b52e6938",
+          "obj2Type": "Track",
+          "minDistance": 0,
+          "clearance": 0.40157,
+          "errorType": "Safe Spacing",
+          "isInSameComponent": false,
+          "layerIds": [
+            2
+          ],
+          "obj1Suffix": "(BAT+): e2562",
+          "obj2Suffix": "(SW_NODE): e2556"
+        }
+      },
+      "objs": [
+        "e915862065ca7be1",
+        "dc2087e4b52e6938"
+      ],
+      "globalIndex": "err315",
+      "pos": {
+        "x": 162.85133249999998,
+        "y": 78.0355525
+      },
+      "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Track to Track"
+    },
+    {
+      "visible": true,
+      "errorType": "Clearance Error",
+      "errorObjType": "Track to Track",
+      "ruleName": "copperThickness1oz",
+      "ruleTypeName": "Safe Spacing",
+      "obj1": {
+        "typeName": "Track",
+        "suffix": "(BAT+): e2562"
+      },
+      "obj2": {
+        "typeName": "Track",
+        "suffix": "(SW_NODE): e2557"
+      },
+      "layer": "Bottom Layer",
+      "explanation": {
+        "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+        "param": {
+          "minDistance": "0mil",
+          "shouldBe": ">= 4mil",
+          "obj1": "Object 1",
+          "obj2": "object 2",
+          "type": "ClearanceError"
+        },
+        "errData": {
+          "globalIndex": "err316",
+          "position": {
+            "x": 163.49558,
+            "y": 77.8708
+          },
+          "name": "copperThickness1oz",
+          "obj1": "e915862065ca7be1",
+          "obj1Type": "Track",
+          "obj2": "9399e77853caeb16",
+          "obj2Type": "Track",
+          "minDistance": 0,
+          "clearance": 0.40157,
+          "errorType": "Safe Spacing",
+          "isInSameComponent": false,
+          "layerIds": [
+            2
+          ],
+          "obj1Suffix": "(BAT+): e2562",
+          "obj2Suffix": "(SW_NODE): e2557"
+        }
+      },
+      "objs": [
+        "e915862065ca7be1",
+        "9399e77853caeb16"
+      ],
+      "globalIndex": "err316",
+      "pos": {
+        "x": 163.49558,
+        "y": 77.8708
+      },
+      "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Track to Track"
+    }
+  ]
+}

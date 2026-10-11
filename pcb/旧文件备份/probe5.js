@@ -1,0 +1,11 @@
+const out = {};
+out.edaKeys = Object.keys(eda);
+out.netClasses = await eda.pcb_Drc.getAllNetClasses();
+out.diffPairs = await eda.pcb_Drc.getAllDifferentialPairs();
+out.eqGroups = await eda.pcb_Drc.getAllEqualLengthNetGroups();
+out.ruleCfgName = await eda.pcb_Drc.getCurrentRuleConfigurationName();
+const rc = await eda.pcb_Drc.getCurrentRuleConfiguration();
+out.ruleCfg = rc ? Object.keys(rc) : null;
+out.ruleSample = rc ? JSON.stringify(rc).slice(0, 2500) : null;
+out.nets = await eda.pcb_Net.getAllNetName();
+return out;

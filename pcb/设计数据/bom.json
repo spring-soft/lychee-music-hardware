@@ -1,0 +1,74 @@
+{
+  "_note": "esp-music PCB 元件清单 —— 全部核实自嘉立创系统库，deviceUuid/footprintUuid 取自 getByLcscIds",
+  "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+
+  "parts": {
+    "U_MCU":      { "lcsc": "C2913202", "deviceUuid": "701a1177d7184d1bbf7f86d69d9385c2", "name": "ESP32-S3-WROOM-1-N16R8", "mfr": "ESPRESSIF", "footprint": "WIRELM-SMD_ESP32-S3-WROOM-1" },
+    "U_CODEC":    { "lcsc": "C365736",  "deviceUuid": "cd3a046e4b0b48efa1e91da1a702171e", "name": "ES8388", "mfr": "Everest-semi", "footprint": "QFN-28_L4.0-W4.0-P0.45-BL-EP" },
+    "U_LDO":      { "lcsc": "C485517",  "deviceUuid": "536ec92fc3224faaaf04a7535f8d0c3c", "name": "TLV75733PDBVR", "mfr": "TI", "footprint": "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL" },
+    "U_QBL":      { "lcsc": "C727149",  "deviceUuid": "4bf6fb56f0a44a96860771f6cfb8e6d4", "name": "2N7002", "mfr": "TWGMC", "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR" },
+    "J_USB":      { "lcsc": "C165948",  "deviceUuid": "74d31c19993b4b9581f3175a7da4b280", "name": "TYPE-C-31-M-12", "mfr": "韩国韩荣", "footprint": "USB-C_SMD-TYPE-C-31-M-12_1" },
+    "J_HP":       { "lcsc": "C2884926", "deviceUuid": "9a9449f8ff604c9182183eead54bd112", "name": "PJ-320A", "mfr": "XKB Connection", "footprint": "AUDIO-TH_XKB_PJ-320A" },
+    "J_LCD":      { "lcsc": "C9900014993", "deviceUuid": "2c7fe9ee72e142c8be8fff6a7c9556af", "name": "0.5MMFPC连接器14PIN下接翻盖式", "mfr": "", "footprint": "FPC-SMD_14P-P0.50_AFC01-S14FCC-00" },
+    "SW_K":       { "lcsc": "C71845",   "deviceUuid": "e172d7e2efcc4dacbd06ce78bfc17a19", "name": "轻触开关 6*6*5 直插(2脚)", "mfr": "", "footprint": "KEY-TH_2P-L6.0-W6.0-P5.00" },
+
+    "R_5K1":      { "lcsc": "C23186",   "deviceUuid": "b5d09b57bc354a60b86d6a6308651647", "name": "0603WAF5101T5E 5.1kΩ", "mfr": "UNI-ROYAL", "footprint": "R0603" },
+    "R_1M":       { "lcsc": "C22935",   "deviceUuid": "b37ebeb11cd54bebb515f79f1ed51ef5", "name": "0603WAF1004T5E 1MΩ", "mfr": "UNI-ROYAL", "footprint": "R0603" },
+    "R_10K":      { "lcsc": "C25804",   "deviceUuid": "b948db94476e4027ac8953235755ec96", "name": "0603WAF1002T5E 10kΩ", "mfr": "UNI-ROYAL", "footprint": "R0603" },
+    "R_100":      { "lcsc": "C22775",   "deviceUuid": "5303080f43d74b41ae76fc5142aa97e5", "name": "0603WAF1000T5E 100Ω", "mfr": "UNI-ROYAL", "footprint": "R0603" },
+    "R_100K":     { "lcsc": "C25803",   "deviceUuid": "40ff282b3d594c33b798d1707d8406cb", "name": "0603WAF1003T5E 100kΩ", "mfr": "UNI-ROYAL", "footprint": "R0603" },
+
+    "C_100N":     { "lcsc": "C14663",   "deviceUuid": "96b39256cc3f4d80bd3b503deb4f3328", "name": "CC0603KRX7R9BB104 100nF/50V X7R", "mfr": "YAGEO", "footprint": "C0603" },
+    "C_10U":      { "lcsc": "C19702",   "deviceUuid": "80646d555bcf4558bdde69f7f0e5dc8d", "name": "CL10A106KP8NNNC 10µF/10V X5R", "mfr": "SAMSUNG", "footprint": "C0603" },
+    "C_1U":       { "lcsc": "C15849",   "deviceUuid": "f4744ff7405a46a48e360c2c6fadeca3", "name": "CL10A105KB8NNNC 1µF/50V X5R", "mfr": "SAMSUNG", "footprint": "C0603" },
+    "C_4N7":      { "lcsc": "C1621",    "deviceUuid": "f0419ed7c5724c298e313f427615045e", "name": "CL10B472KB8NNNC 4.7nF/50V X7R", "mfr": "SAMSUNG", "footprint": "C0603" },
+    "C_220U":     { "lcsc": "C4747973", "deviceUuid": "ae14c42f2de24c7a81bf187d457e0ca4", "name": "RST220UF10V018 220µF/10V 固态电容(有极性)", "mfr": "KNSCHA", "footprint": "CAP-SMD_BD6.3-L6.6-W6.6-FD" },
+
+    "FB_600":     { "lcsc": "C97120",   "deviceUuid": "3f8019f446b6494881e61d1b5a3121c4", "name": "MMZ1608B601CTAH0 600Ω@100MHz", "mfr": "TDK", "footprint": "L0603" }
+  },
+
+  "designators": {
+    "U1":  "U_MCU",
+    "U2":  "U_CODEC",
+    "U3":  "U_LDO",
+    "Q1":  "U_QBL",
+    "J1":  "J_USB",
+    "J2":  "J_HP",
+    "J3":  "J_LCD",
+    "SW1": "SW_K", "SW2": "SW_K", "SW3": "SW_K", "SW4": "SW_K", "SW5": "SW_K", "SW6": "SW_K",
+
+    "R1":  "R_5K1",  "R2":  "R_5K1",
+    "R3":  "R_1M",
+    "R4":  "R_10K",  "R5":  "R_10K",
+    "R6":  "R_10K",  "R7":  "R_10K",  "R8": "R_10K", "R9": "R_10K",
+    "R10": "R_10K",  "R11": "R_10K",
+    "R12": "R_100",  "R13": "R_100",
+    "R14": "R_100K",
+
+    "C1":  "C_4N7",
+    "C2":  "C_1U",   "C3":  "C_1U",
+    "C4":  "C_100N", "C5":  "C_100N", "C6": "C_100N", "C7": "C_100N", "C8": "C_100N", "C9": "C_100N",
+    "C10": "C_10U",  "C11": "C_10U",  "C12": "C_10U", "C13": "C_10U", "C14": "C_10U",
+    "C15": "C_220U", "C16": "C_220U",
+
+    "FB1": "FB_600", "FB2": "FB_600"
+  },
+
+  "_designator_note": "设计位号由我按规格书的功能名对应分配；规格书只给了功能名（如 R_K1、C_HP_L），未给位号。",
+  "_functional_map": {
+    "R1": "R_CC1", "R2": "R_CC2", "R3": "R_SHIELD",
+    "R4": "R_EN", "R5": "R_BOOT",
+    "R6": "R_K1", "R7": "R_K2", "R8": "R_K3", "R9": "R_K4",
+    "R10": "R_SDA", "R11": "R_SCL",
+    "R12": "R_BL", "R13": "R_BLG", "R14": "R_BLPD",
+    "C1": "C_SHIELD", "C2": "C_EN", "C3": "C_CODEC_PVDD",
+    "C4": "C_LDO_IN2", "C5": "C_LDO_OUT2", "C6": "C_MCU2",
+    "C7": "C_CODEC_DVDD", "C8": "C_AVDD2", "C9": "C_HPVDD2",
+    "C10": "C_LDO_IN", "C11": "C_LDO_OUT", "C12": "C_MCU",
+    "C13": "C_AVDD", "C14": "C_HPVDD",
+    "C15": "C_HP_L", "C16": "C_HP_R",
+    "FB1": "FB_AVDD", "FB2": "FB_HPVDD",
+    "SW1": "SW_K1", "SW2": "SW_K2", "SW3": "SW_K3", "SW4": "SW_K4",
+    "SW5": "SW_RST", "SW6": "SW_BOOT"
+  }
+}

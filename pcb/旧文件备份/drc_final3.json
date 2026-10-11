@@ -1,0 +1,932 @@
+[
+  {
+    "rule": "Connection Error/Track",
+    "pos": {
+      "x": 207,
+      "y": 10.136
+    },
+    "objs": [
+      "f4414650d9c52e69"
+    ],
+    "o1": {
+      "t": "Track",
+      "s": "(GND): e4383"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 207.6,
+      "y": 6
+    },
+    "objs": [
+      "880b3e4396e49c51"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e589"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 90,
+      "y": 57.6
+    },
+    "objs": [
+      "82b57058a06c42ad"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e598"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 95,
+      "y": 55.966
+    },
+    "objs": [
+      "4fc19e8fd8b12b9fe7"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): R14_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 188.4,
+      "y": 46.8
+    },
+    "objs": [
+      "63d483531d918824"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e596"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 193,
+      "y": 52.756
+    },
+    "objs": [
+      "e9196ccd3f131264e14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C27_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 38.4,
+      "y": 174
+    },
+    "objs": [
+      "6f31c59d3d8ca172"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e630"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 39.394,
+      "y": 166.138
+    },
+    "objs": [
+      "7962e774de02a21be99"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): U1_41"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Track",
+    "pos": {
+      "x": 14.056,
+      "y": 41.207
+    },
+    "objs": [
+      "7142416c40d27675"
+    ],
+    "o1": {
+      "t": "Track",
+      "s": "(GND): e4650"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 15.6,
+      "y": 32.4
+    },
+    "objs": [
+      "932b872959551abe"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e593"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 145.005,
+      "y": 159.605
+    },
+    "objs": [
+      "e4586a969395f4dee87"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): U2_4"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 154.8,
+      "y": 162
+    },
+    "objs": [
+      "4d103849595a5841"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e625"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 135.6,
+      "y": 36
+    },
+    "objs": [
+      "010ae4ae2668bb74"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e595"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/TH Pad",
+    "pos": {
+      "x": 140,
+      "y": 25
+    },
+    "objs": [
+      "a59a31bd0740bca1e14"
+    ],
+    "o1": {
+      "t": "TH Pad",
+      "s": "(GND): SW3_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 34.8,
+      "y": 144
+    },
+    "objs": [
+      "cbe0618666cc6b8c"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e621"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 39.394,
+      "y": 155.114
+    },
+    "objs": [
+      "7962e774de02a21be94"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): U1_41"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 212.4,
+      "y": 145.2
+    },
+    "objs": [
+      "0e9ee809c4c11223"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e623"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/TH Pad",
+    "pos": {
+      "x": 221.949,
+      "y": 153.152
+    },
+    "objs": [
+      "fc1a7de4b6b010d7e25"
+    ],
+    "o1": {
+      "t": "TH Pad",
+      "s": "(GND): J2_5"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 124,
+      "y": 132.756
+    },
+    "objs": [
+      "d1ae652880251d3de14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C13_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 124.8,
+      "y": 145.2
+    },
+    "objs": [
+      "73a3d4e89f43bff5"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e622"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/TH Pad",
+    "pos": {
+      "x": 60,
+      "y": 25
+    },
+    "objs": [
+      "05630c4bdb8dcb3fe14"
+    ],
+    "o1": {
+      "t": "TH Pad",
+      "s": "(GND): SW1_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 69.6,
+      "y": 33.6
+    },
+    "objs": [
+      "6d52d3944d9b6211"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e594"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 174,
+      "y": 132.756
+    },
+    "objs": [
+      "068a1711761efff8e14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C18_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 187.2,
+      "y": 130.8
+    },
+    "objs": [
+      "23f4b1da22499020"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e618"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 6,
+      "y": 94.8
+    },
+    "objs": [
+      "aa97259f216d7e33"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e609"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Track",
+    "pos": {
+      "x": 18.436,
+      "y": 97.687
+    },
+    "objs": [
+      "f3bbc8e7dc6b001a"
+    ],
+    "o1": {
+      "t": "Track",
+      "s": "(GND): e4789"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 99.6,
+      "y": 132
+    },
+    "objs": [
+      "bb08c3e378ce824b"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e620"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 101,
+      "y": 117.756
+    },
+    "objs": [
+      "691dab597bd3e0a8e14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C5_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 138,
+      "y": 172.756
+    },
+    "objs": [
+      "e4d32886003b2adfe14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C3_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 139.2,
+      "y": 187.2
+    },
+    "objs": [
+      "5725af595b3bb719"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e633"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 153.6,
+      "y": 57.6
+    },
+    "objs": [
+      "5867a12ad4c87b6f"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e599"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 165,
+      "y": 66.756
+    },
+    "objs": [
+      "2b91c507399864bfe14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C23_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 220.8,
+      "y": 88.8
+    },
+    "objs": [
+      "78f6c1e3638f48cc"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e608"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 221.559,
+      "y": 107.461
+    },
+    "objs": [
+      "ba0298fafea1aa53e13"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): J4_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 24.241,
+      "y": 52.598
+    },
+    "objs": [
+      "2dcf810abf0d764ce36"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): e22e36"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 43.2,
+      "y": 51.6
+    },
+    "objs": [
+      "2aafe39a52f5324d"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e597"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 178.8,
+      "y": 6
+    },
+    "objs": [
+      "a50e08f8cba4de13"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e588"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/TH Pad",
+    "pos": {
+      "x": 180,
+      "y": 25
+    },
+    "objs": [
+      "c7339e229a63cd70e14"
+    ],
+    "o1": {
+      "t": "TH Pad",
+      "s": "(GND): SW4_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 27.278,
+      "y": 95.824
+    },
+    "objs": [
+      "6ae85121b9ad73a1e30"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): J3_13"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 39.6,
+      "y": 110.4
+    },
+    "objs": [
+      "598c3a21fa5dd2e6"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e614"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 63.6,
+      "y": 6
+    },
+    "objs": [
+      "d36ea23a211f1b49"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e584"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 92.4,
+      "y": 6
+    },
+    "objs": [
+      "189de68faf4b1664"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e585"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/TH Pad",
+    "pos": {
+      "x": 100,
+      "y": 25
+    },
+    "objs": [
+      "5d6e4f82d02c12cde14"
+    ],
+    "o1": {
+      "t": "TH Pad",
+      "s": "(GND): SW2_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 4.551,
+      "y": 191.02
+    },
+    "objs": [
+      "7962e774de02a21be93"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): U1_40"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 9.6,
+      "y": 170.4
+    },
+    "objs": [
+      "d51fadd0bed1d2b9"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e627"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 150,
+      "y": 6
+    },
+    "objs": [
+      "57fcf3596e548cd0"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e587"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 13.2,
+      "y": 126
+    },
+    "objs": [
+      "39c3e0d54f277def"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e617"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 16.722,
+      "y": 104.488
+    },
+    "objs": [
+      "6ae85121b9ad73a1e28"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): J3_15"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 99.966,
+      "y": 70
+    },
+    "objs": [
+      "a72c7bc984431be4e7"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): R3_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 118.8,
+      "y": 58.8
+    },
+    "objs": [
+      "b2e2896424997559"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e600"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 61.2,
+      "y": 132
+    },
+    "objs": [
+      "cbcb01c56817bf40"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e619"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 79,
+      "y": 117.756
+    },
+    "objs": [
+      "7d5d8d6540a6fb9be14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C11_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 24.241,
+      "y": 27.402
+    },
+    "objs": [
+      "2dcf810abf0d764ce35"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): e22e35"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 34.8,
+      "y": 6
+    },
+    "objs": [
+      "86060489bf1fe93d"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e583"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 196.538,
+      "y": 52.756
+    },
+    "objs": [
+      "dc44f49bd39a82e0"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e529"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 219.6,
+      "y": 60
+    },
+    "objs": [
+      "5fbe11dde5b8b479"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e602"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 121.2,
+      "y": 6
+    },
+    "objs": [
+      "e020464aa779ec3b"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e586"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/SMD Pad",
+    "pos": {
+      "x": 147,
+      "y": 172.756
+    },
+    "objs": [
+      "3372e6cc2e7a16a0e14"
+    ],
+    "o1": {
+      "t": "SMD Pad",
+      "s": "(GND): C7_2"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 171.6,
+      "y": 184.8
+    },
+    "objs": [
+      "ee26fc268b0aab08"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e631"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 6,
+      "y": 6
+    },
+    "objs": [
+      "527eebf15a9ca34a"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e582"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 132,
+      "y": 84
+    },
+    "objs": [
+      "fb321ba1f8be23fe"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e607"
+    },
+    "o2": null
+  },
+  {
+    "rule": "Connection Error/Via",
+    "pos": {
+      "x": 188.4,
+      "y": 160.8
+    },
+    "objs": [
+      "e4b45859a2d78ab7"
+    ],
+    "o1": {
+      "t": "Via",
+      "s": "(GND): e624"
+    },
+    "o2": null
+  }
+]

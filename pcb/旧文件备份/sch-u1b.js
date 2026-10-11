@@ -1,0 +1,12 @@
+const out = {};
+await eda.dmt_EditorControl.openDocument('2767acb0652b1dbe');
+await new Promise(r=>setTimeout(r,4000));
+const comps = await eda.sch_PrimitiveComponent.getAll() || [];
+const u1 = comps.find(c => c.designator === 'U1');
+if (!u1) return { err:'U1 not found' };
+out.compKeys = Object.keys(u1);
+const pins = await eda.sch_PrimitiveComponent.getAllPinsByPrimitiveId(u1.primitiveId) || [];
+out.pinCount = pins.length;
+out.pinKeys = pins[0] ? Object.keys(pins[0]) : null;
+out.pinSample = JSON.stringify(pins.slice(0,3));
+return out;

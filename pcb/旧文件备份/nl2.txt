@@ -1,0 +1,4595 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+U1
+FOOTPRINT
+WIRELM-SMD_ESP32-S3-WROOM-1
+PARTTYPE
+ESP32-S3-WROOM-1-N16R8
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+ESP32-S3-WROOM-1-N16R8
+PCB Layer
+
+Symbol
+ESP32-S3-WROOM-1(N16R8)
+Designator
+U1
+Unique ID
+gge1
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+ESPRESSIF(乐鑫)
+Manufacturer Part
+ESP32-S3-WROOM-1-N16R8
+Supplier
+LCSC
+Supplier Part
+C2913202
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Utilized IC / Part
+
+Interface Type
+
+Value
+
+Antenna Type
+
+Output Power
+
+Voltage - Supply
+
+Receive  Current
+
+Send  Current
+
+Sensitivity
+
+Operating Temperature
+
+Description
+
+3D Model Title
+WIRELM-SMD_ESP32-S3-WROOM-1
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+QFN-28_L4.0-W4.0-P0.45-BL-EP
+PARTTYPE
+ES8388
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+ES8388
+PCB Layer
+
+Symbol
+ES8388
+Designator
+U2
+Unique ID
+gge2
+Name
+ES8388
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+Everest-semi(顺芯)
+Manufacturer Part
+ES8388
+Supplier
+LCSC
+Supplier Part
+C365736
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Resolution (Bits)
+
+Number of Channels
+
+Voltage - Supply
+
+Interface Type
+
+The Chip Type
+
+Operating Temperature
+
+Sampling Rate
+
+Quiescent Current (Iq)
+
+Integral non - linearity
+
+Features
+
+Architecture
+
+Differential Non - linearity
+
+Description
+
+3D Model Title
+QFN-28_L4.0-W4.0-H0.8-P0.45
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL
+PARTTYPE
+TLV75733PDBVR
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+TLV75733PDBVR
+PCB Layer
+
+Symbol
+TLV75733PDBVR
+Designator
+U3
+Unique ID
+gge3
+Name
+TLV75733PDBVR
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+TLV75733PDBVR
+Supplier
+LCSC
+Supplier Part
+C485517
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Output Configuration
+
+Voltage - Supply
+
+Output Voltage
+
+Output Current
+
+Power Supply Rejection Ratio (PSRR)
+
+Voltage Dropout
+
+standby current
+
+Noise
+
+Features
+
+Operating Temperature
+
+Output Type
+
+Number of Outputs
+
+Description
+
+3D Model Title
+SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL
+
+*
+]
+[
+DESIGNATOR
+Q1
+FOOTPRINT
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+PARTTYPE
+2N7002
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+2N7002
+PCB Layer
+
+Symbol
+2N7002_C727149
+Designator
+Q1
+Unique ID
+gge4
+Name
+2N7002
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+TWGMC(迪嘉)
+Manufacturer Part
+2N7002
+Supplier
+LCSC
+Supplier Part
+C727149
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Number
+
+Drain to Source Voltage
+
+Current - Continuous Drain(Id)
+
+RDS(on)
+
+Pd - Power Dissipation
+
+Gate Threshold Voltage (Vgs(th))
+
+Gate Charge(Qg)
+
+Input Capacitance(Ciss)
+
+Reverse Transfer Capacitance (Crss@Vds)
+
+Operating Temperature
+
+Configuration
+
+Type
+
+Output Capacitance(Coss)
+
+Vgs
+
+Description
+
+3D Model Title
+SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95
+
+*
+]
+[
+DESIGNATOR
+J1
+FOOTPRINT
+USB-C_SMD-TYPE-C-31-M-12_1
+PARTTYPE
+TYPE-C-31-M-12
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+TYPE-C-31-M-12
+PCB Layer
+
+Symbol
+TYPE-C-31-M-12
+Designator
+J1
+Unique ID
+gge5
+Name
+TYPE-C-31-M-12
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+韩国韩荣
+Manufacturer Part
+TYPE-C-31-M-12
+Supplier
+LCSC
+Supplier Part
+C165948
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Connector Type
+
+Protocol Standard
+
+Gender
+
+Mounting Type
+
+Number of Contacts
+
+Number of Ports
+
+Current Rating-Power
+
+Voltage Rating
+
+Connect-Disconnect Life
+
+Length
+
+Operating Temperature
+
+Description
+
+3D Model Title
+USB-C_SMD-TYPE-C-31-M-12_1
+
+*
+]
+[
+DESIGNATOR
+J2
+FOOTPRINT
+AUDIO-TH_XKB_PJ-320A
+PARTTYPE
+PJ-320A
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+PJ-320A
+PCB Layer
+
+Symbol
+PJ-320A
+Designator
+J2
+Unique ID
+gge6
+Name
+PJ-320A
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+XKB Connection(中国星坤)
+Manufacturer Part
+PJ-320A
+Supplier
+LCSC
+Supplier Part
+C2884926
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Connector Type
+
+Current Rating
+
+Voltage Rating (Max)
+
+Contact Material
+
+Contact Plating
+
+Operating Temperature
+
+Rank Number
+
+Mounting Style
+
+Color
+
+Body Height
+
+Length
+
+Width
+
+Description
+
+3D Model Title
+AUDIO-TH_XKB_PJ-320A
+
+*
+]
+[
+DESIGNATOR
+J3
+FOOTPRINT
+FPC-SMD_14P-P0.50_AFC01-S14FCC-00
+PARTTYPE
+0.5mmFPC连接器:14PIN下接接翻盖式
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0.5mmFPC连接器:14PIN下接接翻盖式
+PCB Layer
+
+Symbol
+0.5MMFPC连接器:14PIN下接接翻盖式
+Designator
+J3
+Unique ID
+gge7
+Name
+0.5mmFPC连接器:14PIN下接接翻盖式
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+0.5mmFPC连接器:14PIN下接接翻盖式
+Supplier
+LCSC
+Supplier Part
+C9900014993
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+FPC-SMD_14P-P0.50_AFC01-S14FCC-00
+
+*
+]
+[
+DESIGNATOR
+SW1
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW1
+Unique ID
+gge8
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier
+LCSC
+Supplier Part
+C71845
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+
+*
+]
+[
+DESIGNATOR
+SW2
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW2
+Unique ID
+gge9
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier
+LCSC
+Supplier Part
+C71845
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+
+*
+]
+[
+DESIGNATOR
+SW3
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW3
+Unique ID
+gge10
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier
+LCSC
+Supplier Part
+C71845
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+
+*
+]
+[
+DESIGNATOR
+SW4
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW4
+Unique ID
+gge11
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier
+LCSC
+Supplier Part
+C71845
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+
+*
+]
+[
+DESIGNATOR
+SW5
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW5
+Unique ID
+gge12
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier
+LCSC
+Supplier Part
+C71845
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+
+*
+]
+[
+DESIGNATOR
+SW6
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW6
+Unique ID
+gge13
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier
+LCSC
+Supplier Part
+C71845
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Description
+
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF5101T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF5101T5E
+PCB Layer
+
+Symbol
+0603WAF5101T5E
+Designator
+R1
+Unique ID
+gge14
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF5101T5E
+Supplier
+LCSC
+Supplier Part
+C23186
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF5101T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF5101T5E
+PCB Layer
+
+Symbol
+0603WAF5101T5E
+Designator
+R2
+Unique ID
+gge15
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF5101T5E
+Supplier
+LCSC
+Supplier Part
+C23186
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1004T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1004T5E
+PCB Layer
+
+Symbol
+0603WAF1004T5E
+Designator
+R3
+Unique ID
+gge16
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1004T5E
+Supplier
+LCSC
+Supplier Part
+C22935
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R4
+Unique ID
+gge17
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R5
+Unique ID
+gge18
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R6
+Unique ID
+gge19
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R7
+Unique ID
+gge20
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R8
+Unique ID
+gge21
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R9
+Unique ID
+gge22
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R10
+Unique ID
+gge23
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1002T5E
+PCB Layer
+
+Symbol
+0603WAF1002T5E
+Designator
+R11
+Unique ID
+gge24
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier
+LCSC
+Supplier Part
+C25804
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1000T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1000T5E
+PCB Layer
+
+Symbol
+0603WAF1000T5E
+Designator
+R12
+Unique ID
+gge25
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1000T5E
+Supplier
+LCSC
+Supplier Part
+C22775
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1000T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1000T5E
+PCB Layer
+
+Symbol
+0603WAF1000T5E
+Designator
+R13
+Unique ID
+gge26
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1000T5E
+Supplier
+LCSC
+Supplier Part
+C22775
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+
+Operating Temperature Range
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+R14
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1003T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1003T5E
+PCB Layer
+
+Symbol
+0603WAF1003T5E
+Designator
+R14
+Unique ID
+gge27
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1003T5E
+Supplier
+LCSC
+Supplier Part
+C25803
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Description
+
+3D Model Title
+R0603
+
+*
+]
+[
+DESIGNATOR
+C1
+FOOTPRINT
+C0603
+PARTTYPE
+CL10B472KB8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10B472KB8NNNC
+PCB Layer
+
+Symbol
+CL10B472KB8NNNC
+Designator
+C1
+Unique ID
+gge28
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10B472KB8NNNC
+Supplier
+LCSC
+Supplier Part
+C1621
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A105KB8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A105KB8NNNC
+PCB Layer
+
+Symbol
+CL10A105KB8NNNC
+Designator
+C2
+Unique ID
+gge29
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A105KB8NNNC
+Supplier
+LCSC
+Supplier Part
+C15849
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A105KB8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A105KB8NNNC
+PCB Layer
+
+Symbol
+CL10A105KB8NNNC
+Designator
+C3
+Unique ID
+gge30
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A105KB8NNNC
+Supplier
+LCSC
+Supplier Part
+C15849
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C4
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge31
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C5
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge32
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C6
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge33
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C7
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge34
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C8
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge35
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C9
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge36
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C10
+Unique ID
+gge37
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C11
+Unique ID
+gge38
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C12
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C12
+Unique ID
+gge39
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C13
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C13
+Unique ID
+gge40
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C14
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C14
+Unique ID
+gge41
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C15
+FOOTPRINT
+CAP-SMD_BD6.3-L6.6-W6.6-FD
+PARTTYPE
+RST220UF10V018
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+RST220UF10V018
+PCB Layer
+
+Symbol
+RST220UF10V018
+Designator
+C15
+Unique ID
+gge42
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+KNSCHA(科尼盛)
+Manufacturer Part
+RST220UF10V018
+Supplier
+LCSC
+Supplier Part
+C4747973
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Ripple Current
+
+Equivalent Series Resistance(ESR)
+
+Diameter
+
+Height - Seated (Max)
+
+Lifetime
+
+Operating Temperature
+
+Description
+
+3D Model Title
+CAP-SMD_BD6.3-L6.6-W6.6-FD
+
+*
+]
+[
+DESIGNATOR
+C16
+FOOTPRINT
+CAP-SMD_BD6.3-L6.6-W6.6-FD
+PARTTYPE
+RST220UF10V018
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+RST220UF10V018
+PCB Layer
+
+Symbol
+RST220UF10V018
+Designator
+C16
+Unique ID
+gge43
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+KNSCHA(科尼盛)
+Manufacturer Part
+RST220UF10V018
+Supplier
+LCSC
+Supplier Part
+C4747973
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Ripple Current
+
+Equivalent Series Resistance(ESR)
+
+Diameter
+
+Height - Seated (Max)
+
+Lifetime
+
+Operating Temperature
+
+Description
+
+3D Model Title
+CAP-SMD_BD6.3-L6.6-W6.6-FD
+
+*
+]
+[
+DESIGNATOR
+FB1
+FOOTPRINT
+L0603
+PARTTYPE
+MMZ1608B601CTAH0
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+MMZ1608B601CTAH0
+PCB Layer
+
+Symbol
+MMZ1608B601CTAH0
+Designator
+FB1
+Unique ID
+gge44
+Name
+MMZ1608B601CTAH0
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+TDK
+Manufacturer Part
+MMZ1608B601CTAH0
+Supplier
+LCSC
+Supplier Part
+C97120
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Impedance @ Frequency
+
+Tolerance
+
+DC Resistance(DCR)
+
+Current Rating
+
+Number of Circuits
+
+Operating Temperature
+
+Description
+
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+
+*
+]
+[
+DESIGNATOR
+FB2
+FOOTPRINT
+L0603
+PARTTYPE
+MMZ1608B601CTAH0
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+MMZ1608B601CTAH0
+PCB Layer
+
+Symbol
+MMZ1608B601CTAH0
+Designator
+FB2
+Unique ID
+gge45
+Name
+MMZ1608B601CTAH0
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+TDK
+Manufacturer Part
+MMZ1608B601CTAH0
+Supplier
+LCSC
+Supplier Part
+C97120
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Impedance @ Frequency
+
+Tolerance
+
+DC Resistance(DCR)
+
+Current Rating
+
+Number of Circuits
+
+Operating Temperature
+
+Description
+
+3D Model Title
+L0603_L1.6-W0.8-H0.5_BEAD
+
+*
+]
+[
+DESIGNATOR
+C17
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C17
+Unique ID
+gge46
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C18
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C18
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge47
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C19
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C19
+Unique ID
+gge48
+Name
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier
+LCSC
+Supplier Part
+C19702
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+C20
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C20
+Symbol
+CC0603KRX7R9BB104
+Unique ID
+gge49
+Reuse Block
+
+Group ID
+
+Channel ID
+
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier
+LCSC
+Supplier Part
+C14663
+LCSC Part Name
+
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+
+*
+]
+[
+DESIGNATOR
+U4
+FOOTPRINT
+ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
+PARTTYPE
+IP5306
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge50
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+IP5306
+PCB Layer
+
+Symbol
+IP5306
+Designator
+U4
+LCSC Part Name
+
+Supplier Part
+C181692
+Manufacturer
+INJOINIC(英集芯)
+Manufacturer Part
+IP5306
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+ESOP-8_L4.9-W3.9-H1.6-LS6.0-P1.27
+The Chip Type
+
+Voltage - Supply
+
+Charge Current - Max
+
+Charging Saturation Voltage
+
+End-Off Voltage
+
+Type of Battery
+
+Number of Cells
+
+Operating Temperature
+
+Battery Temperature Detection
+
+0V Battery Charge
+
+Supply Current (Iq)
+
+Balance Current
+
+Interface
+
+Features
+
+Name
+IP5306
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+L1
+FOOTPRINT
+IND-SMD_L4.0-W4.0
+PARTTYPE
+WPN4020H2R2MT
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge51
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+WPN4020H2R2MT
+PCB Layer
+
+Symbol
+WPN4020H2R2MT
+Designator
+L1
+LCSC Part Name
+
+Supplier Part
+C98361
+Manufacturer
+Sunlord(顺络)
+Manufacturer Part
+WPN4020H2R2MT
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+IND-SMD_L4.0-W4.0-H1.9
+Value
+
+Tolerance
+
+Current Rating
+
+Current - Saturation(Isat)
+
+DC Resistance(DCR)
+
+Type
+
+Ratings
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+J4
+FOOTPRINT
+CONN-SMD_2P-P1.25-HC-1.25-2PWT
+PARTTYPE
+SP088
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge52
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+SP088
+PCB Layer
+
+Symbol
+SP088
+Designator
+J4
+LCSC Part Name
+
+Supplier Part
+C9900013951
+Manufacturer
+
+Manufacturer Part
+SP088
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+CONN-SMD_2P-P1.25-HC-1.25-2PWT
+Name
+SP088
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+SW7
+FOOTPRINT
+KEY-TH_2P-L6.0-W6.0-P5.00
+PARTTYPE
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge53
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+PCB Layer
+
+Symbol
+SWITCH,6*6*5PLASTIC HEAD,260G, 0.25MM,DIP2
+Designator
+SW7
+LCSC Part Name
+
+Supplier Part
+C71845
+Manufacturer
+
+Manufacturer Part
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+KEY-TH_2P-L6.0-W6.0-H5.0-P5.00
+Name
+轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+LED0603-RD_GREEN
+PARTTYPE
+LED0603-RDl绿灯
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge54
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+LED0603-RDl绿灯
+PCB Layer
+
+Symbol
+LED0603-RDL绿灯
+Designator
+D1
+LCSC Part Name
+
+Supplier Part
+C9900014849
+Manufacturer
+
+Manufacturer Part
+LED0603-RDl绿灯
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+LED0603-RD_GREEN
+Name
+LED0603-RDl绿灯
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D2
+FOOTPRINT
+LED0603-RD_GREEN
+PARTTYPE
+LED0603-RDl绿灯
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge55
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+LED0603-RDl绿灯
+PCB Layer
+
+Symbol
+LED0603-RDL绿灯
+Designator
+D2
+LCSC Part Name
+
+Supplier Part
+C9900014849
+Manufacturer
+
+Manufacturer Part
+LED0603-RDl绿灯
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+LED0603-RD_GREEN
+Name
+LED0603-RDl绿灯
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+D3
+FOOTPRINT
+LED0603-RD_GREEN
+PARTTYPE
+LED0603-RDl绿灯
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge56
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+LED0603-RDl绿灯
+PCB Layer
+
+Symbol
+LED0603-RDL绿灯
+Designator
+D3
+LCSC Part Name
+
+Supplier Part
+C9900014849
+Manufacturer
+
+Manufacturer Part
+LED0603-RDl绿灯
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+LED0603-RD_GREEN
+Name
+LED0603-RDl绿灯
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge57
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1001T5E
+PCB Layer
+
+Symbol
+0603WAF1001T5E
+Designator
+R15
+LCSC Part Name
+
+Supplier Part
+C21190
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R16
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge58
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1001T5E
+PCB Layer
+
+Symbol
+0603WAF1001T5E
+Designator
+R16
+LCSC Part Name
+
+Supplier Part
+C21190
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+R17
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1001T5E
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge59
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+0603WAF1001T5E
+PCB Layer
+
+Symbol
+0603WAF1001T5E
+Designator
+R17
+LCSC Part Name
+
+Supplier Part
+C21190
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1001T5E
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+
+Value
+
+Tolerance
+
+Power(Watts)
+
+Voltage-Supply(Max)
+
+Temperature Coefficient
+
+Operating Temperature
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C21
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge60
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C21
+LCSC Part Name
+
+Supplier Part
+C19702
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C22
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge61
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C22
+Symbol
+CC0603KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+C14663
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C23
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge62
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C23
+LCSC Part Name
+
+Supplier Part
+C19702
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C24
+FOOTPRINT
+C0603
+PARTTYPE
+CC0603KRX7R9BB104
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge63
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CC0603KRX7R9BB104
+PCB Layer
+
+Name
+
+Designator
+C24
+Symbol
+CC0603KRX7R9BB104
+LCSC Part Name
+
+Supplier Part
+C14663
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+CC0603KRX7R9BB104
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+C25
+FOOTPRINT
+C0603
+PARTTYPE
+CL10A106KP8NNNC
+DESCRIPTION
+
+Component Kind
+Standard
+Unique ID
+gge64
+Add into BOM
+yes
+Convert to PCB
+yes
+Device
+CL10A106KP8NNNC
+PCB Layer
+
+Symbol
+CL10A106KP8NNNC
+Designator
+C25
+LCSC Part Name
+
+Supplier Part
+C19702
+Manufacturer
+SAMSUNG(三星)
+Manufacturer Part
+CL10A106KP8NNNC
+Supplier Footprint
+
+JLCPCB Part Class
+
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+C0603_L1.6-W0.8-H0.8
+Value
+
+Tolerance
+
+Voltage Rating
+
+Temperature Coefficient
+
+Name
+
+Description
+
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+(
+GND 
+U1-1 ESP32-S3-WROOM-1-N16R8-GND Passive 
+U1-40 ESP32-S3-WROOM-1-N16R8-GND Passive 
+U1-41 ESP32-S3-WROOM-1-N16R8-GND Passive 
+U2-4 ES8388-DGND Passive 
+U2-13 ES8388-HPGND Passive 
+U2-18 ES8388-AGND Passive 
+U2-29 ES8388-EP Passive 
+U3-2 TLV75733PDBVR-GND Passive 
+Q1-2 2N7002-S Passive 
+J1-A1B12 TYPE-C-31-M-12-GND Passive 
+J1-B1A12 TYPE-C-31-M-12-GND Passive 
+J2-5 PJ-320A-5 Passive 
+J3-2 0.5mmFPC连接器:14PIN下接接翻盖式-2 Passive 
+J3-5 0.5mmFPC连接器:14PIN下接接翻盖式-5 Passive 
+J3-13 0.5mmFPC连接器:14PIN下接接翻盖式-13 Passive 
+J3-15 0.5mmFPC连接器:14PIN下接接翻盖式-15 Passive 
+J3-16 0.5mmFPC连接器:14PIN下接接翻盖式-16 Passive 
+SW1-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+SW2-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+SW3-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+SW4-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+SW5-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+SW6-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+R1-2 0603WAF5101T5E-2 Input   
+R2-2 0603WAF5101T5E-2 Input   
+R3-2 0603WAF1004T5E-2 Input   
+R14-2 0603WAF1003T5E-2 Input   
+C1-2 CL10B472KB8NNNC-2 Input   
+C2-2 CL10A105KB8NNNC-2 Passive 
+C3-2 CL10A105KB8NNNC-2 Passive 
+C4-2 CC0603KRX7R9BB104-2 Passive 
+C5-2 CC0603KRX7R9BB104-2 Passive 
+C6-2 CC0603KRX7R9BB104-2 Passive 
+C7-2 CC0603KRX7R9BB104-2 Passive 
+C8-2 CC0603KRX7R9BB104-2 Passive 
+C9-2 CC0603KRX7R9BB104-2 Passive 
+C10-2 CL10A106KP8NNNC-2 Passive 
+C11-2 CL10A106KP8NNNC-2 Passive 
+C12-2 CL10A106KP8NNNC-2 Passive 
+C13-2 CL10A106KP8NNNC-2 Passive 
+C14-2 CL10A106KP8NNNC-2 Passive 
+C17-2 CL10A106KP8NNNC-2 Passive 
+C18-2 CC0603KRX7R9BB104-2 Passive 
+C19-2 CL10A106KP8NNNC-2 Passive 
+C20-2 CC0603KRX7R9BB104-2 Passive 
+U4-9 IP5306-EP Passive 
+J4-2 SP088-2 Passive 
+SW7-2 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-2 Passive 
+C21-2 CL10A106KP8NNNC-2 Passive 
+C22-2 CC0603KRX7R9BB104-2 Passive 
+C23-2 CL10A106KP8NNNC-2 Passive 
+C24-2 CC0603KRX7R9BB104-2 Passive 
+C25-2 CL10A106KP8NNNC-2 Passive 
+)
+(
+VCC 
+U1-2 ESP32-S3-WROOM-1-N16R8-3V3 Passive 
+U2-2 ES8388-DVDD Passive 
+U2-3 ES8388-PVDD Passive 
+U2-26 ES8388-CE Passive 
+U3-5 TLV75733PDBVR-OUT Passive 
+J3-10 0.5mmFPC连接器:14PIN下接接翻盖式-10 Passive 
+J3-11 0.5mmFPC连接器:14PIN下接接翻盖式-11 Passive 
+R4-1 0603WAF1002T5E-1 Input   
+R5-1 0603WAF1002T5E-1 Input   
+R6-1 0603WAF1002T5E-1 Input   
+R7-1 0603WAF1002T5E-1 Input   
+R8-1 0603WAF1002T5E-1 Input   
+R9-1 0603WAF1002T5E-1 Input   
+R10-1 0603WAF1002T5E-1 Input   
+R11-1 0603WAF1002T5E-1 Input   
+C3-1 CL10A105KB8NNNC-1 Passive 
+C5-1 CC0603KRX7R9BB104-1 Passive 
+C6-1 CC0603KRX7R9BB104-1 Passive 
+C7-1 CC0603KRX7R9BB104-1 Passive 
+C11-1 CL10A106KP8NNNC-1 Passive 
+C12-1 CL10A106KP8NNNC-1 Passive 
+FB1-1 MMZ1608B601CTAH0-1 Passive 
+FB2-1 MMZ1608B601CTAH0-1 Passive 
+)
+(
+RESET_N 
+U1-3 ESP32-S3-WROOM-1-N16R8-EN Passive 
+SW5-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+R4-2 0603WAF1002T5E-2 Input   
+C2-1 CL10A105KB8NNNC-1 Passive 
+)
+(
+LCD_SCLK 
+U1-4 ESP32-S3-WROOM-1-N16R8-IO4 Passive 
+J3-9 0.5mmFPC连接器:14PIN下接接翻盖式-9 Passive 
+)
+(
+LCD_MOSI 
+U1-5 ESP32-S3-WROOM-1-N16R8-IO5 Passive 
+J3-8 0.5mmFPC连接器:14PIN下接接翻盖式-8 Passive 
+)
+(
+LCD_RST 
+U1-6 ESP32-S3-WROOM-1-N16R8-IO6 Passive 
+J3-6 0.5mmFPC连接器:14PIN下接接翻盖式-6 Passive 
+)
+(
+LCD_DC 
+U1-7 ESP32-S3-WROOM-1-N16R8-IO7 Passive 
+J3-7 0.5mmFPC连接器:14PIN下接接翻盖式-7 Passive 
+)
+(
+LCD_CS 
+U1-8 ESP32-S3-WROOM-1-N16R8-IO15 Passive 
+J3-12 0.5mmFPC连接器:14PIN下接接翻盖式-12 Passive 
+)
+(
+BL_DRV 
+U1-9 ESP32-S3-WROOM-1-N16R8-IO16 Passive 
+R13-1 0603WAF1000T5E-1 Input   
+)
+(
+KEY_K4 
+U1-10 ESP32-S3-WROOM-1-N16R8-IO17 Passive 
+SW4-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+R9-2 0603WAF1002T5E-2 Input   
+)
+(
+KEY_K3 
+U1-11 ESP32-S3-WROOM-1-N16R8-IO18 Passive 
+SW3-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+R8-2 0603WAF1002T5E-2 Input   
+)
+(
+KEY_K2 
+U1-12 ESP32-S3-WROOM-1-N16R8-IO8 Passive 
+SW2-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+R7-2 0603WAF1002T5E-2 Input   
+)
+(
+USB_DN 
+U1-13 ESP32-S3-WROOM-1-N16R8-IO19 Passive 
+J1-B7 TYPE-C-31-M-12-DN2 Passive 
+J1-A7 TYPE-C-31-M-12-DN1 Passive 
+)
+(
+USB_DP 
+U1-14 ESP32-S3-WROOM-1-N16R8-IO20 Passive 
+J1-A6 TYPE-C-31-M-12-DP1 Passive 
+J1-B6 TYPE-C-31-M-12-DP2 Passive 
+)
+(
+BOOT_N 
+U1-27 ESP32-S3-WROOM-1-N16R8-IO0 Passive 
+SW6-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+R5-2 0603WAF1002T5E-2 Input   
+)
+(
+KEY_K1 
+U1-31 ESP32-S3-WROOM-1-N16R8-IO38 Passive 
+SW1-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+R6-2 0603WAF1002T5E-2 Input   
+)
+(
+I2S_LRCK 
+U1-32 ESP32-S3-WROOM-1-N16R8-IO39 Passive 
+U2-7 ES8388-LRCK Passive 
+)
+(
+I2S_DOUT 
+U1-33 ESP32-S3-WROOM-1-N16R8-IO40 Passive 
+U2-6 ES8388-DSDIN Passive 
+)
+(
+I2S_BCLK 
+U1-34 ESP32-S3-WROOM-1-N16R8-IO41 Passive 
+U2-5 ES8388-SCLK Passive 
+)
+(
+I2S_MCLK 
+U1-35 ESP32-S3-WROOM-1-N16R8-IO42 Passive 
+U2-1 ES8388-MCLK Passive 
+)
+(
+I2C_SCL 
+U1-38 ESP32-S3-WROOM-1-N16R8-IO2 Passive 
+U2-28 ES8388-CCLK Passive 
+R11-2 0603WAF1002T5E-2 Input   
+)
+(
+I2C_SDA 
+U1-39 ESP32-S3-WROOM-1-N16R8-IO1 Passive 
+U2-27 ES8388-CDATA Passive 
+R10-2 0603WAF1002T5E-2 Input   
+)
+(
+VREF 
+U2-10 ES8388-VREF Passive 
+C17-1 CL10A106KP8NNNC-1 Passive 
+C18-1 CC0603KRX7R9BB104-1 Passive 
+)
+(
+ROUT1 
+U2-11 ES8388-ROUT1 Passive 
+C16-1 RST220UF10V018-1 Input   
+)
+(
+LOUT1 
+U2-12 ES8388-LOUT1 Passive 
+C15-1 RST220UF10V018-1 Input   
+)
+(
+HPVDD 
+U2-16 ES8388-HPVDD Passive 
+C9-1 CC0603KRX7R9BB104-1 Passive 
+C14-1 CL10A106KP8NNNC-1 Passive 
+FB2-2 MMZ1608B601CTAH0-2 Passive 
+)
+(
+AVDD 
+U2-17 ES8388-AVDD Passive 
+C8-1 CC0603KRX7R9BB104-1 Passive 
+C13-1 CL10A106KP8NNNC-1 Passive 
+FB1-2 MMZ1608B601CTAH0-2 Passive 
+)
+(
+VMID 
+U2-20 ES8388-VMID Passive 
+C19-1 CL10A106KP8NNNC-1 Passive 
+C20-1 CC0603KRX7R9BB104-1 Passive 
+)
+(
++5V 
+U3-1 TLV75733PDBVR-IN Passive 
+U3-3 TLV75733PDBVR-EN Passive 
+R12-1 0603WAF1000T5E-1 Input   
+C4-1 CC0603KRX7R9BB104-1 Passive 
+C10-1 CL10A106KP8NNNC-1 Passive 
+U4-8 IP5306-VOUT Passive 
+R15-1 0603WAF1001T5E-1 Input   
+R16-1 0603WAF1001T5E-1 Input   
+R17-1 0603WAF1001T5E-1 Input   
+C23-1 CL10A106KP8NNNC-1 Passive 
+C24-1 CC0603KRX7R9BB104-1 Passive 
+)
+(
+BL_GATE 
+Q1-1 2N7002-G Passive 
+R13-2 0603WAF1000T5E-2 Input   
+R14-1 0603WAF1003T5E-1 Input   
+)
+(
+LED_K 
+Q1-3 2N7002-D Passive 
+J3-3 0.5mmFPC连接器:14PIN下接接翻盖式-3 Passive 
+)
+(
+VBUS 
+J1-A4B9 TYPE-C-31-M-12-VBUS Passive 
+J1-B4A9 TYPE-C-31-M-12-VBUS Passive 
+U4-1 IP5306-VIN Passive 
+C21-1 CL10A106KP8NNNC-1 Passive 
+C22-1 CC0603KRX7R9BB104-1 Passive 
+)
+(
+CC1 
+J1-A5 TYPE-C-31-M-12-CC1 Passive 
+R1-1 0603WAF5101T5E-1 Input   
+)
+(
+CC2 
+J1-B5 TYPE-C-31-M-12-CC2 Passive 
+R2-1 0603WAF5101T5E-1 Input   
+)
+(
+SHIELD 
+J1-4 TYPE-C-31-M-12-EH Passive 
+J1-3 TYPE-C-31-M-12-EH Passive 
+J1-2 TYPE-C-31-M-12-EH Passive 
+J1-1 TYPE-C-31-M-12-EH Passive 
+R3-1 0603WAF1004T5E-1 Input   
+C1-1 CL10B472KB8NNNC-1 Input   
+)
+(
+HP_L 
+J2-2 PJ-320A-2 Passive 
+C15-2 RST220UF10V018-2 Input   
+)
+(
+HP_R 
+J2-3 PJ-320A-3 Passive 
+C16-2 RST220UF10V018-2 Input   
+)
+(
+LED_A 
+J3-4 0.5mmFPC连接器:14PIN下接接翻盖式-4 Passive 
+R12-2 0603WAF1000T5E-2 Input   
+)
+(
+LED1_K 
+U4-2 IP5306-LED1 Passive 
+D1-1 LED0603-RDl绿灯-C Input   
+)
+(
+LED2_K 
+U4-3 IP5306-LED2 Passive 
+D2-1 LED0603-RDl绿灯-C Input   
+)
+(
+LED3_K 
+U4-4 IP5306-LED3 Passive 
+D3-1 LED0603-RDl绿灯-C Input   
+)
+(
+PWR_KEY 
+U4-5 IP5306-KEY Passive 
+SW7-1 轻触开关,6*6*5塑头,260G,行程0.25mm,直插中2脚-1 Passive 
+)
+(
+BAT+ 
+U4-6 IP5306-BAT Passive 
+L1-1 WPN4020H2R2MT-1 Passive 
+J4-1 SP088-1 Passive 
+C25-1 CL10A106KP8NNNC-1 Passive 
+)
+(
+SW_NODE 
+U4-7 IP5306-SW Passive 
+L1-2 WPN4020H2R2MT-2 Passive 
+)
+(
+LED1_R 
+D1-2 LED0603-RDl绿灯-A Input   
+R15-2 0603WAF1001T5E-2 Input   
+)
+(
+LED2_R 
+D2-2 LED0603-RDl绿灯-A Input   
+R16-2 0603WAF1001T5E-2 Input   
+)
+(
+LED3_R 
+D3-2 LED0603-RDl绿灯-A Input   
+R17-2 0603WAF1001T5E-2 Input   
+)
+

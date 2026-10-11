@@ -1,0 +1,712 @@
+{
+  "count": 101,
+  "violations": [
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2511",
+      "s2": "(VBUS): e2859"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(SW_NODE): e2556",
+      "s2": "(BAT+): e2563"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2562",
+      "s2": "(SW_NODE): e2556"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2562",
+      "s2": "(SW_NODE): e2557"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2562",
+      "s2": "(SW_NODE): e2558"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2562",
+      "s2": "(SW_NODE): e2559"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2563",
+      "s2": "(SW_NODE): e2555"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2563",
+      "s2": "(SW_NODE): e2557"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2564",
+      "s2": "(SW_NODE): e2555"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(BAT+): e2564",
+      "s2": "(SW_NODE): e2556"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2722",
+      "s2": "(GND): e2803"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2723",
+      "s2": "(GND): e2803"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2724",
+      "s2": "(GND): e2803"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2725",
+      "s2": "(LED1_R): e2581"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2725",
+      "s2": "(LED1_R): e2580"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2726",
+      "s2": "(LED1_R): e2581"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2726",
+      "s2": "(LED1_R): e2580"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(GND): e2802",
+      "s2": "(+5V): e2723"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(GND): e2802",
+      "s2": "(+5V): e2724"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(GND): e2805",
+      "s2": "(+5V): e2898"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(GND): e2805",
+      "s2": "(+5V): e2897"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e2856",
+      "s2": "(BAT+): e2567"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e2856",
+      "s2": "(BAT+): e2566"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e2856",
+      "s2": "(BAT+): e2565"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e2857",
+      "s2": "(GND): e3010"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e2858",
+      "s2": "(+5V): e2886"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e2858",
+      "s2": "(GND): e3010"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2897",
+      "s2": "(GND): e2806"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2898",
+      "s2": "(GND): e2806"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2898",
+      "s2": "(KEY_K4): e2901"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(+5V): e2898",
+      "s2": "(KEY_K4): e2902"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(KEY_K4): e2900",
+      "s2": "(+5V): e2898"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(GND): e3011",
+      "s2": "(VBUS): e2857"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(GND): e3011",
+      "s2": "(VBUS): e2858"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e3077",
+      "s2": "(CC2): e3052"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e3078",
+      "s2": "(CC2): e3052"
+    },
+    {
+      "rule": "Clearance Error/Track to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 4mil",
+      "s1": "(VBUS): e3079",
+      "s2": "(CC2): e3052"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2526",
+      "s2": "(GND): C23_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2528",
+      "s2": "(LED1_R): R15_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2532",
+      "s2": "(GND): C23_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2549",
+      "s2": "(GND): U3_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2550",
+      "s2": "(GND): U3_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(SW_NODE): e2556",
+      "s2": "(+5V): U4_8"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(SW_NODE): e2557",
+      "s2": "(+5V): U4_8"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2561",
+      "s2": "(GND): U4_9"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2562",
+      "s2": "(GND): U4_9"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2563",
+      "s2": "(GND): U4_9"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2565",
+      "s2": "(SW_NODE): L1_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2566",
+      "s2": "(SW_NODE): L1_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2573",
+      "s2": ": J4_3"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2574",
+      "s2": "(+5V): R15_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2575",
+      "s2": "(+5V): R15_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(BAT+): e2576",
+      "s2": "(+5V): R15_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2725",
+      "s2": "(GND): C25_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2728",
+      "s2": "(GND): C23_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2729",
+      "s2": "(GND): C23_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2787",
+      "s2": "(CC2): J1_B5"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2791",
+      "s2": ": J1_B8"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2855",
+      "s2": "(ROUT1): C16_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2856",
+      "s2": "(ROUT1): C16_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2857",
+      "s2": "(+5V): C4_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2857",
+      "s2": "(GND): C4_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2858",
+      "s2": "(+5V): C4_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2858",
+      "s2": "(GND): C4_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2898",
+      "s2": "(GND): C24_2"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e3190",
+      "s2": "(BAT+): L1_1"
+    },
+    {
+      "rule": "Clearance Error/SMD Pad to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e3191",
+      "s2": "(BL_GATE): R13_2"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Top Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3130",
+      "s2": "(LED_K): e311"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Top Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3129",
+      "s2": "(LED_K): e311"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Top Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3131",
+      "s2": "(LED_K): e311"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Top Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3131",
+      "s2": "(KEY_K1): e345"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Top Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3132",
+      "s2": "(KEY_K1): e345"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Top Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3132",
+      "s2": "(VCC): e351"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e3191",
+      "s2": "(LED_A): e315"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2790",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2789",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2788",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e2787",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2511",
+      "s2": "(VBUS): e327"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2898",
+      "s2": "(KEY_K4): e346"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3078",
+      "s2": "(CC2): e356"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(VBUS): e3079",
+      "s2": "(CC2): e356"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e2511",
+      "s2": "(BL_DRV): e361"
+    },
+    {
+      "rule": "Clearance Error/Track to Via",
+      "layer": "Bottom Layer",
+      "should": ">= 6mil",
+      "s1": "(+5V): e3191",
+      "s2": "(KEY_K3): e371"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Top Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e3130",
+      "s2": "(LED_K): e311"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Top Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e3129",
+      "s2": "(LED_K): e311"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Top Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e3131",
+      "s2": "(KEY_K1): e345"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Top Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e3132",
+      "s2": "(VCC): e351"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(+5V): e3191",
+      "s2": "(LED_A): e315"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e2790",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e2789",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e2788",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e2787",
+      "s2": "(USB_DP): e319"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(+5V): e2511",
+      "s2": "(VBUS): e327"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(VBUS): e3079",
+      "s2": "(CC2): e356"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(+5V): e2511",
+      "s2": "(BL_DRV): e361"
+    },
+    {
+      "rule": "Clearance Error/Hole to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 6.9mil",
+      "s1": "(+5V): e3191",
+      "s2": "(KEY_K3): e371"
+    },
+    {
+      "rule": "Clearance Error/Slot Region to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 11.8mil",
+      "s1": "(VBUS): e2791",
+      "s2": ": e22e55"
+    },
+    {
+      "rule": "Clearance Error/Slot Region to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 11.8mil",
+      "s1": "(VBUS): e2792",
+      "s2": ": e22e55"
+    },
+    {
+      "rule": "Clearance Error/Slot Region to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 11.8mil",
+      "s1": "(VBUS): e2787",
+      "s2": ": e22e56"
+    },
+    {
+      "rule": "Clearance Error/Slot Region to Track",
+      "layer": "Bottom Layer",
+      "should": ">= 11.8mil",
+      "s1": "(VBUS): e2786",
+      "s2": ": e22e56"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# ============================================================
+#  绝不提交
+# ============================================================
+
+# ⚠️ firmware 是【一个独立的 git 仓库】（它自己的 remote 是
+#    spring-soft/lychee-music，固件源码和分支都在那边）。
+#    绝不能把它当普通目录加进来 —— git 会记成一个**没有 .gitmodules 的 gitlink**
+#    （半个 submodule），别人 clone 下来只会看到一个空目录，而且报错很难懂。
+firmware/
+
+# 测试用的 scratch（里面有个 venv，几千个文件）
+server/
+
+# 归档：里面那个 lychee-music-backup-*.zip 有 211MB，
+# 超过 GitHub 单文件 100MB 的硬上限，推了会直接被拒。
+归档/
+
+# ============================================================
+#  凭据 —— 这几个是很要紧的
+# ============================================================
+# pcb/fw_src/lychee-music-backup-20260925/esp-music/ 下那份 firmware 备份里
+# 带着【明文密码】的配置文件（WiFi 密码 + Navidrome 密码，实测扫出来过）。
+#
+# sdkconfig      = IDF 生成的完整配置，里面把 sdkconfig.local 的值也展开了
+# sdkconfig.local= 本地配置（密码的源头）
+# 这两个在固件仓库里本来就忽略（见 firmware/.gitignore）—— 这里保持一致。
+# 下面这两行是**按任意层级匹配**的，所以 pcb/fw_src 里那份也会被挡住。
+sdkconfig
+sdkconfig.local
+sdkconfig.old
+
+# 编辑器 / 系统 / Python
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc

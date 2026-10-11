@@ -1,0 +1,12 @@
+const out = {};
+const proto = o => Object.getOwnPropertyNames(Object.getPrototypeOf(o)).filter(k=>k!=='constructor');
+out.drc = proto(eda.pcb_Drc);
+out.pour = proto(eda.pcb_PrimitivePour);
+out.via = proto(eda.pcb_PrimitiveVia);
+out.region = proto(eda.pcb_PrimitiveRegion);
+out.fill = proto(eda.pcb_PrimitiveFill);
+out.net = proto(eda.pcb_Net);
+out.doc = proto(eda.pcb_Document);
+out.edaImg = Object.keys(eda).filter(k=>/image|expor|snapshot|screen/i.test(k));
+out.imgProto = eda.dmt_Image ? proto(eda.dmt_Image) : 'none';
+return out;

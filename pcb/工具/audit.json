@@ -1,0 +1,327 @@
+{
+  "全部网络": {
+    "GND": [
+      "U1.1",
+      "U1.40",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U1.41",
+      "U2.29",
+      "U2.18",
+      "U2.13",
+      "U2.4",
+      "U3.2",
+      "U4.9",
+      "J1.A1B12",
+      "J1.B1A12",
+      "J2.5",
+      "J3.16",
+      "J3.15",
+      "J3.13",
+      "J3.5",
+      "J3.2",
+      "J4.2",
+      "CARD1.6",
+      "CARD1.10",
+      "CARD1.13",
+      "CARD1.12",
+      "CARD1.11",
+      "EC1.5",
+      "EC1.C",
+      "Q1.2",
+      "SW1.2",
+      "SW2.2",
+      "SW3.2",
+      "SW4.2",
+      "SW5.2",
+      "SW6.2",
+      "SW7.2",
+      "R14.2"
+    ],
+    "VCC": [
+      "U1.2",
+      "U2.26",
+      "U2.3",
+      "U2.2",
+      "U3.5",
+      "J3.11",
+      "J3.10",
+      "CARD1.4",
+      "R6.1",
+      "R7.1",
+      "R8.1",
+      "R9.1",
+      "R10.1",
+      "R11.1",
+      "R18.1",
+      "R19.1",
+      "R20.1"
+    ],
+    "RESET_N": [
+      "U1.3",
+      "SW5.1"
+    ],
+    "LCD_SCLK": [
+      "U1.4",
+      "J3.9",
+      "CARD1.5"
+    ],
+    "LCD_MOSI": [
+      "U1.5",
+      "J3.8",
+      "CARD1.3"
+    ],
+    "LCD_RST": [
+      "U1.6",
+      "J3.6"
+    ],
+    "LCD_DC": [
+      "U1.7",
+      "J3.7"
+    ],
+    "LCD_CS": [
+      "U1.8",
+      "J3.12"
+    ],
+    "BL_DRV": [
+      "U1.9",
+      "R13.1"
+    ],
+    "KEY_K4": [
+      "U1.10",
+      "SW4.1",
+      "R9.2"
+    ],
+    "KEY_K3": [
+      "U1.11",
+      "SW3.1",
+      "R8.2"
+    ],
+    "KEY_K2": [
+      "U1.12",
+      "SW2.1",
+      "R7.2"
+    ],
+    "USB_DN": [
+      "U1.13",
+      "J1.B7",
+      "J1.A7"
+    ],
+    "USB_DP": [
+      "U1.14",
+      "J1.A6",
+      "J1.B6"
+    ],
+    "ENC_A": [
+      "U1.17",
+      "EC1.A",
+      "R18.2"
+    ],
+    "ENC_B": [
+      "U1.18",
+      "EC1.B",
+      "R19.2"
+    ],
+    "ENC_SW": [
+      "U1.19",
+      "EC1.4",
+      "R20.2"
+    ],
+    "TF_CS": [
+      "U1.20",
+      "CARD1.2"
+    ],
+    "TF_MISO": [
+      "U1.21",
+      "CARD1.7"
+    ],
+    "TF_CD": [
+      "U1.22",
+      "CARD1.9"
+    ],
+    "BOOT_N": [
+      "U1.27",
+      "SW6.1"
+    ],
+    "KEY_K1": [
+      "U1.31",
+      "SW1.1",
+      "R6.2"
+    ],
+    "I2S_LRCK": [
+      "U1.32",
+      "U2.7"
+    ],
+    "I2S_DOUT": [
+      "U1.33",
+      "U2.6"
+    ],
+    "I2S_BCLK": [
+      "U1.34",
+      "U2.5"
+    ],
+    "I2S_MCLK": [
+      "U1.35",
+      "U2.1"
+    ],
+    "I2C_SCL": [
+      "U1.38",
+      "U2.28",
+      "R11.2"
+    ],
+    "I2C_SDA": [
+      "U1.39",
+      "U2.27",
+      "R10.2"
+    ],
+    "VMID": [
+      "U2.20"
+    ],
+    "AVDD": [
+      "U2.17"
+    ],
+    "HPVDD": [
+      "U2.16"
+    ],
+    "LOUT1": [
+      "U2.12"
+    ],
+    "ROUT1": [
+      "U2.11"
+    ],
+    "VREF": [
+      "U2.10"
+    ],
+    "+5V": [
+      "U3.1",
+      "U3.3",
+      "U4.8",
+      "R15.1",
+      "R16.1",
+      "R17.1"
+    ],
+    "VBUS": [
+      "U4.1",
+      "J1.B4A9",
+      "J1.A4B9"
+    ],
+    "LED1_K": [
+      "U4.2",
+      "D1.1"
+    ],
+    "LED2_K": [
+      "U4.3",
+      "D2.1"
+    ],
+    "LED3_K": [
+      "U4.4",
+      "D3.1"
+    ],
+    "PWR_KEY": [
+      "U4.5",
+      "SW7.1"
+    ],
+    "BAT+": [
+      "U4.6",
+      "J4.1"
+    ],
+    "SW_NODE": [
+      "U4.7"
+    ],
+    "CC1": [
+      "J1.A5"
+    ],
+    "CC2": [
+      "J1.B5"
+    ],
+    "SHIELD": [
+      "J1.2",
+      "J1.1",
+      "J1.4",
+      "J1.3"
+    ],
+    "HP_L": [
+      "J2.2"
+    ],
+    "HP_R": [
+      "J2.3"
+    ],
+    "LED_A": [
+      "J3.4"
+    ],
+    "LED_K": [
+      "J3.3",
+      "Q1.3"
+    ],
+    "BL_GATE": [
+      "Q1.1",
+      "R13.2",
+      "R14.1"
+    ],
+    "LED1_R": [
+      "D1.2",
+      "R15.2"
+    ],
+    "LED2_R": [
+      "D2.2",
+      "R16.2"
+    ],
+    "LED3_R": [
+      "D3.2",
+      "R17.2"
+    ]
+  },
+  "关键元件": {
+    "U1": "1=GND 2=VCC 3=RESET_N 4=LCD_SCLK 5=LCD_MOSI 6=LCD_RST 7=LCD_DC 8=LCD_CS 9=BL_DRV 10=KEY_K4 11=KEY_K3 12=KEY_K2 13=USB_DN 14=USB_DP 15=空 16=空 17=ENC_A 18=ENC_B 19=ENC_SW 20=TF_CS 21=TF_MISO 22=TF_CD 23=空 24=空 25=空 26=空 27=BOOT_N 28=空 29=空 30=空 31=KEY_K1 32=I2S_LRCK 33=I2S_DOUT 34=I2S_BCLK 35=I2S_MCLK 36=空 37=空 38=I2C_SCL 39=I2C_SDA 40=GND 41=GND 41=GND 41=GND 41=GND 41=GND 41=GND 41=GND 41=GND 41=GND",
+    "U2": "29=GND 28=I2C_SCL 27=I2C_SDA 26=VCC 25=空 24=空 23=空 22=空 21=空 20=VMID 19=空 18=GND 17=AVDD 16=HPVDD 15=空 14=空 13=GND 12=LOUT1 11=ROUT1 10=VREF 9=空 8=空 7=I2S_LRCK 6=I2S_DOUT 5=I2S_BCLK 4=GND 3=VCC 2=VCC 1=I2S_MCLK",
+    "U3": "5=VCC 4=空 1=+5V 3=+5V 2=GND",
+    "U4": "1=VBUS 2=LED1_K 3=LED2_K 4=LED3_K 5=PWR_KEY 6=BAT+ 7=SW_NODE 8=+5V 9=GND",
+    "J1": "B8=空 A5=CC1 B7=USB_DN A6=USB_DP A7=USB_DN B6=USB_DP A8=空 B5=CC2 A1B12=GND B1A12=GND B4A9=VBUS A4B9=VBUS 2=SHIELD 1=SHIELD 4=SHIELD 3=SHIELD",
+    "J2": "2=HP_L 3=HP_R 4=空 5=GND",
+    "J3": "16=GND 15=GND 14=空 13=GND 12=LCD_CS 11=VCC 10=VCC 9=LCD_SCLK 8=LCD_MOSI 7=LCD_DC 6=LCD_RST 5=GND 4=LED_A 3=LED_K 2=GND 1=空",
+    "J4": "1=BAT+ 2=GND 4=空 3=空",
+    "CARD1": "1=空 2=TF_CS 3=LCD_MOSI 4=VCC 5=LCD_SCLK 6=GND 7=TF_MISO 8=空 9=TF_CD 10=GND 13=GND 12=GND 11=GND",
+    "EC1": "5=GND 4=ENC_SW B=ENC_B A=ENC_A C=GND",
+    "Q1": "1=BL_GATE 2=GND 3=LED_K",
+    "SW1": "2=GND 1=KEY_K1",
+    "SW2": "2=GND 1=KEY_K2",
+    "SW3": "2=GND 1=KEY_K3",
+    "SW4": "2=GND 1=KEY_K4",
+    "SW5": "1=RESET_N 2=GND",
+    "SW6": "1=BOOT_N 2=GND",
+    "SW7": "2=GND 1=PWR_KEY",
+    "D1": "1=LED1_K 2=LED1_R",
+    "D2": "1=LED2_K 2=LED2_R",
+    "D3": "1=LED3_K 2=LED3_R",
+    "R6": "2=KEY_K1 1=VCC",
+    "R7": "2=KEY_K2 1=VCC",
+    "R8": "2=KEY_K3 1=VCC",
+    "R9": "2=KEY_K4 1=VCC",
+    "R10": "2=I2C_SDA 1=VCC",
+    "R11": "2=I2C_SCL 1=VCC",
+    "R13": "2=BL_GATE 1=BL_DRV",
+    "R14": "2=GND 1=BL_GATE",
+    "R15": "2=LED1_R 1=+5V",
+    "R16": "2=LED2_R 1=+5V",
+    "R17": "2=LED3_R 1=+5V",
+    "R18": "2=ENC_A 1=VCC",
+    "R19": "2=ENC_B 1=VCC",
+    "R20": "2=ENC_SW 1=VCC"
+  },
+  "悬空统计": {
+    "U1": "11 个悬空脚",
+    "U2": "10 个悬空脚",
+    "U3": "1 个悬空脚",
+    "J1": "2 个悬空脚",
+    "J2": "1 个悬空脚",
+    "J3": "2 个悬空脚",
+    "J4": "2 个悬空脚",
+    "CARD1": "2 个悬空脚"
+  }
+}
