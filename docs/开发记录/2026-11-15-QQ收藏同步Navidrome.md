@@ -69,7 +69,8 @@ sync-fav-playlist        # 把收藏按原顺序做成 Navidrome 歌单「收藏
 - 工具：`sync-fav-playlist`（`tools/sync_fav_playlist.py`）
 - 结果：歌单「收藏」**849 首**（933 收藏里有 84 首曲库没有），**顺序与 QQ 逐首一致**
   （脚本自检 `order_ok=true`，第 1 首 We Don't Talk Anymore、最后 1 首 Montagem Nada Tropica）
-- 同时把这 849 首打了星标
+- **默认不动星标**（用户要求：只按顺序维护「收藏」歌单，星标自己管）。工具已改为默认不打星标，
+  需要时才加 `--star`；当天曾批量打过星标，用户随后手动取消，服务器上残留的 892 首已用脚本清空（现在 0 首）
 
 **踩的坑**：分批 `createPlaylist` / `updatePlaylist(songIdToAdd)` 写入时 Navidrome 是"前插"，
 第一版做出来顺序整个反了（QQ 第一首跑到最后）。改成**一次性 POST 写入 + 回读校验**后正确。
