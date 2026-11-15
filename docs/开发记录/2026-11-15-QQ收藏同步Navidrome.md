@@ -55,9 +55,26 @@ sync-fav             # 真同步（默认 2 轮重试）
 sync-fav --dry-run       # 先看还缺多少
 sync-fav                 # 同步
 sync-fav --passes 3      # 接口超时多时多跑几轮
+sync-fav-playlist        # 把收藏按原顺序做成 Navidrome 歌单「收藏」
 ```
 
 已入库的会自动跳过，所以**可以随时重复跑**；买了会员后再跑一次即可补付费单曲。
+
+---
+
+## 同步成 Navidrome 歌单（保顺序）
+
+用户要求：QQ 收藏的顺序原样搬到 Navidrome 的「收藏」歌单。
+
+- 工具：`sync-fav-playlist`（`tools/sync_fav_playlist.py`）
+- 结果：歌单「收藏」**849 首**（933 收藏里有 84 首曲库没有），**顺序与 QQ 逐首一致**
+  （脚本自检 `order_ok=true`，第 1 首 We Don't Talk Anymore、最后 1 首 Montagem Nada Tropica）
+- 同时把这 849 首打了星标
+
+**踩的坑**：分批 `createPlaylist` / `updatePlaylist(songIdToAdd)` 写入时 Navidrome 是"前插"，
+第一版做出来顺序整个反了（QQ 第一首跑到最后）。改成**一次性 POST 写入 + 回读校验**后正确。
+另：这台 Navidrome 的 `getPlaylist` 会忽略 `songCount` 一次返回全部条目，分页循环会死循环。
+
 
 ---
 
