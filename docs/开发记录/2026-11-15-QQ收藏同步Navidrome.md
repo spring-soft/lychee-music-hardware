@@ -58,3 +58,21 @@ sync-fav --passes 3      # 接口超时多时多跑几轮
 ```
 
 已入库的会自动跳过，所以**可以随时重复跑**；买了会员后再跑一次即可补付费单曲。
+
+---
+
+## 补充：Navidrome 频繁重启的排查（同日发现并修复）
+
+同步结束后检查 Navidrome 日志发现 **24 小时内重启了 102 次**，根因是**看门狗脚本自己的 bug**：
+
+| 版本 | 判断方式 | 结果 |
+|---|---|---|
+| v1 | `findmnt -q /mnt/usb` | 这台机器的 findmnt **不支持 `-q`**，永远返回 1 → 每 30 秒误判"盘没挂载"→ 反复 `mount` 叠加挂载 → systemd 认为挂载点变了 → **每次把 Navidrome 停掉重启**（日志满屏 `Scan failed: context canceled`） |
+| v2 | `mountpoint -q /mnt/usb` | 同样不稳，仍会误判 |
+| **v3（现在）** | `grep -q " /mnt/usb " /proc/mounts` | 不依赖额外命令，**只在真没挂载时才 mount** |
+
+修复后验证：Navidrome 连续运行 4 分钟 **0 重启**；全量扫描 `count=956`、DB 956 首、挂载唯一、1621 个文件。
+
+另：这块板的 U 盘**会真的掉线**（供电/接触，内核出现 `Buffer I/O error` + 重新枚举 `sda→sdb`），
+本次开机掉了 4 次。看门狗现在能自动挂回并重启 Navidrome 重新扫描；日志 `/var/log/usb-watchdog.log`。
+
