@@ -1,0 +1,60 @@
+# 2026-11-15 QQ 收藏歌单 → Navidrome 曲库 同步记录
+
+## 结论先说
+
+一次完整的"QQ 收藏补进本地曲库"落地了，并**固化成可复用工具**：
+
+```bash
+sync-fav --dry-run   # 只看还缺多少
+sync-fav             # 真同步（默认 2 轮重试）
+```
+
+- 工具：`/opt/qqmusic/sync_fav.py`（仓库：`server/_scratch/ref/qqservice/tools/sync_fav.py`）
+- 文档：`/opt/qqmusic/README-sync-favorites.md`（仓库：`deploy/README-sync-favorites.md`）
+- 归档：`/opt/qqmusic/data/sync_report_2026-11-15.json` + 当天日志/结果 JSON
+
+## 本次数据
+
+| 项目 | 数值 |
+|---|---|
+| QQ 收藏 | 933 首 |
+| Navidrome 同步前 | 813 首 |
+| Navidrome 同步后 | **956 首**（+143） |
+| 下载音质 | SQ 无损 flac 130 + HQ/最高可用 mp3 26 |
+| 封面 | 154/156 内嵌封面（2 首 QQ 无封面） |
+| 歌词 | 149/156 有 `.lrc`（7 首 QQ 本身无歌词） |
+| 文件完整性 | ffprobe 全通过 |
+| 无法下载 | 21 首付费单曲（`result=104003 无播放权限`，绿钻不够） |
+
+## 流程（脚本 7 步）
+
+1. 分页读 QQ 收藏（每页 100，带重试）
+2. 读 Navidrome sqlite 建索引，按 **歌名 + 歌手(交集) + 时长(±3s)** 判重
+3. 缺的按 40 首一批提交 `/v1/download/add`，排空再下一批
+4. 多轮重试（QQ 接口偶发超时）
+5. 补歌词：扫 `QQ下载/` 缺 `.lrc` 的音频，按文件名反查收藏 mid → `/v1/lyric`（纯文本 LRC）→ UTF-8 无 BOM
+6. 质检：ffprobe 查内嵌封面/时长，统计歌词覆盖
+7. 报告：`data/sync_report.json`（全量）+ `sync_noauth.json`（付费单曲清单）
+
+## 本次踩的坑（都已修）
+
+1. **下载器装盘校验路径写错**：检查 `MUSIC_DIR/name`，实际装在 `DL_DIR/name`
+   → 每首都误报"装进曲库失败"，并且**歌词步骤被跳过**（表现：下了歌却没歌词）。
+   修完补回 39 首歌词。
+2. **曲库盘掉线保护**：exfat U 盘今天掉了 3 次（`Buffer I/O error` + 重新枚举 sda→sdb）。
+   掉线时 `/mnt/usb/music` 会退化成根分区目录，继续写会撑爆 3.5G 系统、Navidrome 还会扫空。
+   现在下载器发现盘没挂载会等 60 秒再明确失败；另加 `usb-watchdog.timer`（每 30 秒）
+   自动挂回并拉起 Navidrome。
+3. **`/v1/lyric` 是纯文本 LRC**，补歌词脚本一度按 JSON 解析 → 误判"QQ 无歌词 46 首"，
+   修正后补回 39 首。
+4. 批量脚本启动太快会撞上服务重启（收藏拉成 0 首）→ 已加"拉不到 100 首就报错退出"保护。
+
+## 以后怎么用
+
+```bash
+sync-fav --dry-run       # 先看还缺多少
+sync-fav                 # 同步
+sync-fav --passes 3      # 接口超时多时多跑几轮
+```
+
+已入库的会自动跳过，所以**可以随时重复跑**；买了会员后再跑一次即可补付费单曲。
